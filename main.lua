@@ -5,7 +5,7 @@ local game = Game()
 -- Mod Items
 
 -- Trinket
-TrinketType.TRINKET_ICYHOT = Isaac.GetTrinketIdByName("Icy Hot")
+TrinketType.TRINKET_ICYHOT = Isaac.GetTrinketIdByName("Icy Hot Flame")
 
 -- Item Data
 local IcyHot = { ACTIVATION_CHANCE = 0.4 }

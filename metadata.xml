@@ -1,8 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-	<name>BoI_IcyHot</name>
-	<directory>boi_icyhot</directory>
-	<description/>
-	<version>1.0</version>
-	<visibility/>
-</metadata>
+    <name>Icy Hot Flame</name>
+    <directory>boi_icyhot</directory>
+    <id>1389460385</id>
+    <description>Some coding practice to figure out how this stuff works and get used to it, as suggested by /u/Kopekemaster (https://www.reddit.com/r/bindingofisaac/comments/8ka7ec/trinket_idea_icy_hot/)
 
+Adds a Trinket to the game called the Icy Hot Flame. While held there is a chance of several instances of standard Flames being replaced by Blue Flames.
+
+This includes the following:
+standard Fireplaces in every new room entered may spawn as Blue Fireplaces instead,
+Flames spawned via Hot Bombs, Ghost Pepper or the Red Candle items may instead spawn as Blue Flames with differing effects
+
+Hot Bomb Blue Flames last slightly longer before fading.
+Ghost Pepper and Red Candle Blue Flames have more points of durability than normal.</description>
+    <version>1.1</version>
+    <visibility>Private</visibility>
+    <tag id="Lua"/>
+    <tag id="Items"/>
+    <tag id="Active Items"/>
+    <tag id="Trinkets"/>
+    <tag id="Tweaks"/>
+    <tag id="Graphics"/>
+</metadata>
